@@ -1123,3 +1123,5 @@ Now, as the user types in the IDE, the `assemblyName` transform will re-run, but
 is very cheap and quickly returns what is likely the same value each time. That
 means that unless the additional texts have also changed, the host does not need
 to re-run the combine or re-generate any of the source.
+
+*reading list*
